@@ -1,3 +1,15 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-timelines",
+  "templater-obsidian",
+  "obsidian-style-settings",
+  "quickadd",
+  "open-gate",
+  "obsidian-minimal-settings",
+  "obsidian-meta-bind-plugin",
+  "obsidian-leaflet-plugin",
+  "obsidian-html-plugin",
+  "dataview",
+  "custom-sort",
+  "buttons"
 ]

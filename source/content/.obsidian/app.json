@@ -1,1 +1,5 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "source",
+  "readableLineLength": false
+}

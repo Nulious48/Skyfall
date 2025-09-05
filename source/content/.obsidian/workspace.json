@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Some note.md",
-                "mode": "source",
-                "source": false
+                "file": "Places/Cities and Settlements/Halvinar.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Some note"
+              "title": "Halvinar"
             }
           }
         ],
@@ -182,15 +182,46 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "open-gate:Calendar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "Attachments/World Forging.png",
+    "Attachments/Western Soarn.png",
+    "Attachments/War in Heaven.png",
+    "Attachments/Village.png",
+    "Attachments/Tread Clock.png",
+    "Attachments/The Sky Falls.png",
+    "Attachments/Soarn.png",
+    "Attachments/Ruin Fortress.png",
+    "Attachments/PlaceholderImage.png",
+    "Attachments/Pasted image 20240105002652.png",
+    "Attachments/Light of Creation.png",
+    "Attachments",
+    "category-folder/Some note.md",
+    "Places/Nations/Untitled.md",
+    "Places/Nations/Kog Empire.md",
+    "Places/Cool Locations/Coolest desert.md",
+    "Places/Cities and Settlements/Tolvar.md",
+    "Places/Cities and Settlements/Sahric.md",
+    "Places/Cities and Settlements/Nakerak Keep.md",
+    "Places/Cities and Settlements/Mueint.md",
+    "Places/Cities and Settlements/Jekier.md",
+    "Places/Cities and Settlements/Halvinar_0.1.md",
+    "Places/Cities and Settlements/Halvinar.md",
+    "Places/Western Soarn.md",
     "Places/Soarn.md",
+    "Places/Nations",
+    "Places/Kendin.md",
+    "Places/Cool Locations",
+    "Places/Cities and Settlements",
     "Places",
     "category-folder/index.md",
-    "category-folder/Some note.md",
     "index.md",
     "category-folder"
   ]
