@@ -1,0 +1,6 @@
+{
+  "folder": "Daily Misk",
+  "format": "YY/MM-MMM/YYYY-MM-DD-dddd",
+  "template": "Templates/Daily Template",
+  "autorun": false
+}

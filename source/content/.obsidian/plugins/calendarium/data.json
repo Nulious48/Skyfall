@@ -1,0 +1,615 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Kendin",
+      "description": "The universal calendar of Kendin as divined  from the Creator.",
+      "static": {
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Sundus",
+            "id": "ID_883b5bca1a48"
+          },
+          {
+            "type": "day",
+            "name": "Maldus",
+            "id": "ID_b9ca4878a9ba"
+          },
+          {
+            "type": "day",
+            "name": "Tildus",
+            "id": "ID_cb7a5ad8994a"
+          },
+          {
+            "type": "day",
+            "name": "Vindus",
+            "id": "ID_3aea590a8b9a"
+          },
+          {
+            "type": "day",
+            "name": "Tidus",
+            "id": "ID_981a3ae978aa"
+          },
+          {
+            "type": "day",
+            "name": "Fondus",
+            "id": "ID_1b0a2a7888c9"
+          },
+          {
+            "type": "day",
+            "name": "Savrus",
+            "id": "ID_7b88f8c948db"
+          }
+        ],
+        "months": [
+          {
+            "name": "1",
+            "type": "month",
+            "length": 35,
+            "id": "ID_78eaf88a29f8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "2",
+            "type": "month",
+            "length": 36,
+            "id": "ID_2b18a84859a8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "3",
+            "type": "month",
+            "length": 33,
+            "id": "ID_6abaf9d86ba8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "4",
+            "type": "month",
+            "length": 36,
+            "id": "ID_2b2ac8ebfa0a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "5",
+            "type": "month",
+            "length": 35,
+            "id": "ID_9989cb092a1a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "6",
+            "type": "month",
+            "length": 35,
+            "id": "ID_e9992a3a6a58",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "7",
+            "type": "month",
+            "length": 35,
+            "id": "ID_9adb183bda99",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "8",
+            "type": "month",
+            "length": 36,
+            "id": "ID_4b1bd848a88b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "9",
+            "type": "month",
+            "length": 32,
+            "id": "ID_1a49aaba7929",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "10",
+            "type": "month",
+            "length": 36,
+            "id": "ID_b8c96bf99b88",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 34,
+            "offset": 0,
+            "faceColor": "#FFFFFF",
+            "shadowColor": "#000000",
+            "id": "ID_88686b3a5b78"
+          }
+        ],
+        "leapDays": [
+          {
+            "name": "Leap Day",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 5
+              }
+            ],
+            "timespan": 1,
+            "intercalary": false,
+            "numbered": true,
+            "after": 33,
+            "offset": 0,
+            "id": "ID_1b2bc9e979a8"
+          }
+        ],
+        "eras": [
+          {
+            "name": "The Prime Ether",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "id": "ID_0ae8bb093a0a",
+            "endsYear": false,
+            "event": false,
+            "date": {
+              "year": -7000,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
+          },
+          {
+            "name": "The Dawn of Creation",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "id": "ID_08d8495978cb",
+            "endsYear": false,
+            "event": false,
+            "date": {
+              "year": -4600,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
+          },
+          {
+            "name": "The part before humanoids",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "id": "ID_f9797b893b38",
+            "endsYear": false,
+            "event": false,
+            "date": {
+              "year": -3157,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
+          },
+          {
+            "name": "The part where there are humanoids",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "id": "ID_79c8ca29a9e8",
+            "endsYear": false,
+            "event": false,
+            "date": {
+              "year": -1154,
+              "month": 5,
+              "day": 5
+            },
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
+          },
+          {
+            "name": "Post 1st catacalysm(current one)",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "id": "ID_899968ba5a28",
+            "endsYear": false,
+            "event": false,
+            "date": {
+              "year": 0,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
+          }
+        ],
+        "displayMoons": true,
+        "incrementDay": false,
+        "displayDayNumber": false
+      },
+      "current": {
+        "year": 1752,
+        "day": 5,
+        "month": 5
+      },
+      "events": [
+        {
+          "name": "Winter Solstice",
+          "description": "The longest night of the year.",
+          "id": "1990833",
+          "note": null,
+          "date": {
+            "day": 14,
+            "year": [
+              null,
+              null
+            ],
+            "month": 0
+          },
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Spring Equinox",
+          "description": "The spring equinox is when the day and the night are equally as long, and are getting longer.",
+          "id": "1990859",
+          "note": null,
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Undated"
+        },
+        {
+          "name": "Summer Solstice",
+          "description": "\tAt the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.",
+          "id": "1990860",
+          "note": null,
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Undated"
+        },
+        {
+          "name": "Autumn Equinox",
+          "description": "The autumn equinox is when the day and the night are equally as long, and are getting shorter.",
+          "id": "1990861",
+          "note": null,
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Undated"
+        }
+      ],
+      "id": "ID_4b7aeb2b28f8",
+      "categories": [
+        {
+          "id": "ID_897afa5b586b",
+          "color": "#96ba23",
+          "name": "Seasonal"
+        },
+        {
+          "id": "ID_987b6beaba9a",
+          "color": "#f2ce6d",
+          "name": "Historic"
+        },
+        {
+          "id": "ID_c948796a1b89",
+          "color": "#cc6002",
+          "name": "Religious"
+        }
+      ],
+      "timelineTag": "timeline",
+      "autoParse": true,
+      "path": [
+        "Timeline"
+      ],
+      "displayWeeks": false,
+      "supportTimelines": true,
+      "syncTimelines": true,
+      "showIntercalarySeparately": false,
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": -1670704414,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      }
+    },
+    {
+      "name": "Garden",
+      "description": "The Garden one where you go to garden",
+      "id": "ID_09e978f9b858",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Green",
+            "id": "ID_fa4bab6b6aea"
+          },
+          {
+            "type": "day",
+            "name": "Blue",
+            "id": "ID_98aa8b5b09c9"
+          },
+          {
+            "type": "day",
+            "name": "Purple",
+            "id": "ID_9bcbebe89a79"
+          },
+          {
+            "type": "day",
+            "name": "Red",
+            "id": "ID_aa8bf878eafa"
+          },
+          {
+            "type": "day",
+            "name": "Orange",
+            "id": "ID_1ac9887b2948"
+          },
+          {
+            "type": "day",
+            "name": "Yellow",
+            "id": "ID_3b58c849d8bb"
+          },
+          {
+            "type": "day",
+            "name": "White",
+            "id": "ID_d8bbba5809a8"
+          },
+          {
+            "type": "day",
+            "name": "Black",
+            "id": "ID_08185b99281a"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Green",
+            "length": 64,
+            "id": "ID_c9b899aaaa9a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Blue",
+            "length": 64,
+            "id": "ID_abdbfa097819",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Purple",
+            "length": 64,
+            "id": "ID_b80a390aa9db",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Red",
+            "length": 64,
+            "id": "ID_b9e8f99bbad8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Orange",
+            "length": 64,
+            "id": "ID_4b5a48daf9c8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Yellow",
+            "length": 64,
+            "id": "ID_9ac98b2ab9f8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "White",
+            "length": 64,
+            "id": "ID_1a7a98aa290b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Black",
+            "length": 64,
+            "id": "ID_8bba1a787a89",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 1,
+        "padDays": 2
+      },
+      "current": {
+        "day": 58,
+        "month": 3,
+        "year": 578
+      },
+      "events": [
+        {
+          "name": "sortspec",
+          "description": "I showed up and protested against the states interpretation of Tenkar",
+          "date": {
+            "day": 22,
+            "month": 2,
+            "year": 578
+          },
+          "id": "ID_6b9b1b4868db",
+          "note": "Unsorted Main/sortspec.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Entered Tenkaras",
+          "description": "We showed up and protested the governments interpretation of Tenkaras",
+          "date": {
+            "day": 22,
+            "month": 2,
+            "year": 578
+          },
+          "id": "ID_08d98b8b391a",
+          "note": "Down With Garden/Calendar/Entered Tenkaras.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "The Day I Slayed the Stars",
+          "description": "I killed Stargazer",
+          "date": {
+            "day": 58,
+            "month": 3,
+            "year": 578
+          },
+          "id": "ID_3b6869d9bb2b",
+          "note": null,
+          "category": "ID_188b992aca3b",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_188b992aca3b",
+          "color": "#fce879",
+          "name": "Seasonal"
+        }
+      ],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": true,
+      "inlineEventTag": "#gardenevent",
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": -1670704414,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      }
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_4b7aeb2b28f8",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": true,
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": true,
+  "askedAboutSync": true,
+  "syncBehavior": "Always",
+  "inlineEventsTag": null,
+  "paths": [],
+  "currentCalendar": null,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": true,
+    "advanced": true
+  },
+  "showIntercalary": false,
+  "autoParse": true
+}

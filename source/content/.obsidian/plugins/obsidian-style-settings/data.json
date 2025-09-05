@@ -1,0 +1,18 @@
+{
+  "minimal-mobile@@mobile-toolbar-off": false,
+  "minimal-style@@table-lines": true,
+  "minimal-style@@embed-strict": true,
+  "minimal-style@@metadata-heading-off": false,
+  "minimal-style@@metadata-add-property-off": true,
+  "minimal-style@@metadata-icons-off": true,
+  "minimal-style@@metadata-dividers": false,
+  "minimal-style@@metadata-label-width": 6.75,
+  "minimal-style@@sidebar-tabs-style": "sidebar-tabs-underline",
+  "minimal-style@@sidebar-tabs-names": "tab-names-off",
+  "minimal-style@@tag-radius": "0px",
+  "minimal-advanced@@cursor": "default",
+  "minimal-style@@folding-offset": 41,
+  "minimal-cards-style@@cards-mobile-width": "200px",
+  "minimal-cards-style@@cards-min-width": "200px",
+  "minimal-style@@col-lines": false
+}

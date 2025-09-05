@@ -1,0 +1,4 @@
+/* Center the table */
+table, .table-wrapper  {
+    margin-inline: auto;
+ }

@@ -1,0 +1,318 @@
+{
+  "main": {
+    "id": "1c049d0907c9e1bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fefcd3b679356bfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee20390bec21bfae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kendin/Things/Untitled.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04b0b972baaeb8b6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "35ea0a5b5e127ac9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b143451836bca92e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "01f8ce907dc35934",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "eca0d37fe28ef42a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b31301e2bcd4f05a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ef65f02235d86a49",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Herald's of Ash/Ravings/Session Notes Me.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "43dc5f77ed24bbad",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Herald's of Ash/Ravings/Session Notes Me.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "46439e36a71712c4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Herald's of Ash/Ravings/Session Notes Me.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "1699ae8463ae5c14",
+        "type": "leaf",
+        "state": {
+          "type": "FANTASY_CALENDAR",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "9cfa6b311b7312a8",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "initiative-tracker",
+          "title": "Initiative Tracker"
+        }
+      },
+      {
+        "id": "3637b47b6f5d7fc7",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_09e978f9b858",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 23,
+                "month": 2,
+                "year": 578
+              },
+              "displayDayNumber": true,
+              "displayMoons": true
+            },
+            "id": "ID_69d8881b880b"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "e037fa64bae6d8f7",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_09e978f9b858",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 23,
+                "month": 3,
+                "year": 578
+              },
+              "displayDayNumber": true,
+              "displayMoons": true
+            },
+            "id": "ID_fbd99a998aaa"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "ccc83b47ae6aff47",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_09e978f9b858",
+            "ephemeral": {
+              "viewing": {
+                "day": 58,
+                "month": 3,
+                "year": 578
+              },
+              "viewState": 1,
+              "displaying": {
+                "day": 23,
+                "month": 4,
+                "year": 578
+              },
+              "displayDayNumber": true,
+              "displayMoons": true
+            },
+            "id": "ID_59ea4bd99b2b"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "8c1ee0442cd0ee48",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM_AGENDA",
+          "state": {
+            "calendar": "ID_09e978f9b858",
+            "id": "ID_8bd9fb19b9db",
+            "parent": "ID_59ea4bd99b2b"
+          },
+          "icon": "CALENDARIUM_AGENDA",
+          "title": "Agenda"
+        }
+      }
+    ],
+    "currentTab": 7
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "custom-sort:Toggle custom sorting": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "open-gate:Calendar": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false,
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "ee20390bec21bfae",
+  "lastOpenFiles": [
+    "Kendin/Monster Origins.md",
+    "Kendin/Deity/Major/Evil/Slaughter.md",
+    "Shelter/Characters/Player's/Iknulias Nightblade.md",
+    "Kendin/People/The Races.md",
+    "Stories/5-7-2025.md",
+    "Kendin/Deity/Major/Good/Diligence.md",
+    "Kendin/Game System Notes/War in Heaven OneShot.md",
+    "Down With Garden/GardenHeart/Campaigns/Emberseekers/Session Recap/Arc I - Tenkaras.sync-conflict-20240801-192612-3G27NMX.md",
+    "Kendin/Deity/Minor/Dead Sepluchers/Water Dragon.md",
+    "Kendin/Deity/Minor/Dead Sepluchers/Azaerikidalor.md",
+    "Kendin/Deity/Minor/Dead Sepluchers/Phuerilek.md",
+    "Kendin/Deity/Minor/Dead Sepluchers/Earth Dragon.md",
+    "Kendin/Deity/Minor/Lorien, The Surveyor.md",
+    "Kendin/Deity/Minor/Jeserai, The Beholder.md",
+    "Kendin/Deity/Minor/Aurielen, The Seeker.md",
+    "Kendin/Deity/Minor/Vulnar, The Helm.md",
+    "Kendin/Deity/Minor/Magic.md",
+    "Kendin/Deity/Seplucher/Dragons/Takktakysi.md",
+    "Kendin/Deity/Seplucher/Dragons/Balkarezin.md",
+    "Kendin/Deity/Seplucher/Dragons/Mo.md",
+    "Kendin/Deity/Seplucher/Dragons/The Hydra.md",
+    "Kendin/Deity/Major/Neutral/Force.md",
+    "Kendin/Deity/Major/Good/Salvation.md",
+    "Kendin/Deity/Major/Balance/Affluence.md",
+    "Kendin/Deity/Major/Good/Untitled.md",
+    "Kendin/Deity/Major/Evil/Deceit.md",
+    "Mage/Items",
+    "Stories/STARwars/Planing",
+    "Stories/STARwars",
+    "Kendin/Attachments/Soarn.png",
+    "Down With Garden/GardenHeart/Unsorted/Nonmagic",
+    "Down With Garden/GardenHeart/Unsorted/Magic Domains",
+    "Daily Misk/25/05-May",
+    "Kendin/Unsorted Threads/Stories",
+    "Daily Misk/25/04-Apr",
+    "Stories/Warhammer Fantasy",
+    "Stories",
+    "Down With Garden/GardenHeart/Attachments/Glass_Domain.png",
+    "Down With Garden/GardenHeart/Attachments/Place of thing.png",
+    "Down With Garden/GardenHeart/Attachments/Ash_Domain.jpg",
+    "Down With Garden/GardenHeart/Attachments/Chain_Domain.png",
+    "SoaringSands/Attachments/Pasted image 20240520170207.png",
+    "Attachments/Ash_Domain.jpg",
+    "Kendin/Attachments/Village.png",
+    "Kendin/Attachments/Tread Clock.png",
+    "Kendin/Attachments/War in Heaven.png"
+  ]
+}
