@@ -186,7 +186,8 @@
       "templater-obsidian:Templater": false,
       "open-gate:Calendar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-regex-pipeline:Regex Rulesets": false
     }
   },
   "active": "2d8837e6263008e3",

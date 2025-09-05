@@ -11,5 +11,6 @@
   "obsidian-html-plugin",
   "dataview",
   "custom-sort",
-  "buttons"
+  "buttons",
+  "obsidian-regex-pipeline"
 ]

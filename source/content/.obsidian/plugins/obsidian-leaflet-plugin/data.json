@@ -71,49 +71,6 @@
       ]
     },
     {
-      "id": "Halvinar",
-      "lastAccessed": 1757104755255,
-      "markers": [
-        {
-          "id": "ID_2b7b7a69bba8",
-          "type": "default",
-          "loc": [
-            2064.375,
-            837.5918584335272
-          ],
-          "link": "Juntier",
-          "layer": "%5B%5Bhalvinar.png%7CHalvinar%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Juntier HQ",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "always"
-        },
-        {
-          "id": "ID_385b7b1afa8b",
-          "type": "default",
-          "loc": [
-            2094.375,
-            978.0563288811237
-          ],
-          "link": "Ramak Durlin",
-          "layer": "%5B%5Bhalvinar.png%7CHalvinar%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": "Ramak's House",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": []
-    },
-    {
       "id": "Western Soarn",
       "lastAccessed": 1757104880680,
       "markers": [
@@ -154,6 +111,51 @@
       "overlays": [],
       "shapes": [],
       "files": []
+    },
+    {
+      "id": "Halvinar",
+      "lastAccessed": 1757113072105,
+      "markers": [
+        {
+          "id": "ID_2b7b7a69bba8",
+          "type": "default",
+          "loc": [
+            2064.375,
+            837.5918584335272
+          ],
+          "link": "Juntier",
+          "layer": "%5B%5Bhalvinar.png%7CHalvinar%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Juntier HQ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        },
+        {
+          "id": "ID_385b7b1afa8b",
+          "type": "default",
+          "loc": [
+            2094.375,
+            978.0563288811237
+          ],
+          "link": "Ramak Durlin",
+          "layer": "%5B%5Bhalvinar.png%7CHalvinar%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Ramak's House",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Places/Cities and Settlements/Halvinar.md"
+      ]
     }
   ],
   "defaultMarker": {

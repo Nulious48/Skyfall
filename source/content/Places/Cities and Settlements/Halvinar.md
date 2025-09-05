@@ -222,10 +222,9 @@ mapCalc1: 0.5186567164179104
 > ``` 
 
 # **`=this.file.name`**
-> [!info|bg-c-purple]+ Map w/Overview
->
->## Map
->```leaflet
+
+## Map
+```leaflet
  id: Halvinar
  image: [[halvinar.png|Halvinar]]
  height: 850px
@@ -238,11 +237,12 @@ mapCalc1: 0.5186567164179104
  defaultZoom: -1
  unit: meters
  scale: 0.5186567164179104
->
->## Notable Locations
->
-> ### Districts
->
+```
+
+## Notable Locations
+
+ ### Districts
+
 
 
 ## History
