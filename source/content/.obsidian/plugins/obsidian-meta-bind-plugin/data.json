@@ -1,0 +1,76 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 0,
+    "name": "Sunday",
+    "shortName": "Su"
+  },
+  "syncInterval": 200,
+  "enableJs": false,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "New Organization",
+      "hidden": false,
+      "id": "NewOrg",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Templates/Organization Template.md",
+          "folderPath": "People/Organizations"
+        }
+      ]
+    },
+    {
+      "label": "New Place",
+      "hidden": false,
+      "id": "NewPlace",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Templates/Location Template.md",
+          "folderPath": "Places"
+        }
+      ]
+    },
+    {
+      "label": "New NPC",
+      "hidden": false,
+      "id": "NewNPC",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Templates/People Template.md",
+          "folderPath": "People/NPCs"
+        }
+      ]
+    },
+    {
+      "label": "New Thing!!",
+      "hidden": false,
+      "id": "NewThing",
+      "style": "default",
+      "actions": [
+        {
+          "type": "templaterCreateNote",
+          "templateFile": "Kendin/Templates/Thing Template.md",
+          "folderPath": "Kendin/Things",
+          "openNote": true
+        }
+      ]
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ],
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000
+}
