@@ -72,7 +72,7 @@
     },
     {
       "id": "Western Soarn",
-      "lastAccessed": 1757104880680,
+      "lastAccessed": 1757113917895,
       "markers": [
         {
           "id": "ID_e8da3a49fb2a",
@@ -110,11 +110,13 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": []
+      "files": [
+        "Places/Western Soarn.md"
+      ]
     },
     {
       "id": "Halvinar",
-      "lastAccessed": 1757113072105,
+      "lastAccessed": 1757367925489,
       "markers": [
         {
           "id": "ID_2b7b7a69bba8",
@@ -153,9 +155,7 @@
       ],
       "overlays": [],
       "shapes": [],
-      "files": [
-        "Places/Cities and Settlements/Halvinar.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {

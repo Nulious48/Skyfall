@@ -24,19 +24,15 @@ tags:
   - Location
   - Place
   - Halvinar
-map_height_y: 3452
-map_width_x: 3386
-scale_pixels: 268
-scale_pixels_range: 139
-mapCalc1: 0.5186567164179104
 ---
+| | |
+| --|-- |
 > [!info]- Overview
 > **Pronounced:**  "`=this.Pronounced`"
 > ![[halvinar.png|cover hm-sm]]
 > ###### Info
 >  |
 > ---|---|
-> **Alias** | `=this.alias` |
 > **Type** | `=this.type` |
 > **Population** | `=this.population` |
 > **Theme** | `=this.theme` |
@@ -55,6 +51,7 @@ mapCalc1: 0.5186567164179104
 >  ---|---|
 > **Imports** | `=this.imports` |
 > **Exports** | `=this.exports` |
+
 
 > [!info]- Super Table
 > [[Kendin/People/Organizations/Organizations|Add Organization]]
@@ -221,10 +218,12 @@ mapCalc1: 0.5186567164179104
 >renderTable('Organizations');
 > ``` 
 
-# **`=this.file.name`**
 
-## Map
-```leaflet
+# **`=this.file.name`**
+> [!info|bg-c-purple]+ Map w/Overview
+>
+>## Map
+>```leaflet
  id: Halvinar
  image: [[halvinar.png|Halvinar]]
  height: 850px
@@ -236,13 +235,12 @@ mapCalc1: 0.5186567164179104
  minZoom: -1.5
  defaultZoom: -1
  unit: meters
- scale: 0.5186567164179104
-```
-
-## Notable Locations
-
- ### Districts
-
+ scale: 0.5186567164179104 
+>
+>## Notable Locations
+>
+> ### Districts
+>
 
 
 ## History

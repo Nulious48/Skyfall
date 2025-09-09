@@ -11,3 +11,5 @@ export { SyntaxHighlighting } from "./syntax"
 export { TableOfContents } from "./toc"
 export { HardLineBreaks } from "./linebreaks"
 export { RoamFlavoredMarkdown } from "./roam"
+//** Leaflet AI shit I added */
+export { LeafletTransformer } from "./leaflet"
