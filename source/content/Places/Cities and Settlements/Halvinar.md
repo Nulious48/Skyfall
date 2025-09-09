@@ -13,7 +13,7 @@ Region:
 Terrain:
   - Mountain
 GovtType:
-  - City_State
+  - City State
 Defences:
 Religions:
 Imports:
@@ -24,12 +24,15 @@ tags:
   - Location
   - Place
   - Halvinar
+map_height_y: 3452
+map_width_x: 3386
+scale_pixels: 268
+scale_pixels_range: 139
+mapCalc1: 0.5186567164179104
 ---
-| | |
-| --|-- |
 > [!info]- Overview
 > **Pronounced:**  "`=this.Pronounced`"
-> ![[halvinar.png|cover hm-sm]]
+> ![[halvinar.png |cover hm-sm]]
 > ###### Info
 >  |
 > ---|---|
@@ -51,7 +54,6 @@ tags:
 >  ---|---|
 > **Imports** | `=this.imports` |
 > **Exports** | `=this.exports` |
-
 
 > [!info]- Super Table
 > [[Kendin/People/Organizations/Organizations|Add Organization]]
@@ -218,24 +220,26 @@ tags:
 >renderTable('Organizations');
 > ``` 
 
-
 # **`=this.file.name`**
 > [!info|bg-c-purple]+ Map w/Overview
 >
 >## Map
 >```leaflet
- id: Halvinar
- image: [[halvinar.png|Halvinar]]
- height: 850px
- width: 95%
- bounds: [[0,0], [3386, 3452]] 
- lat: 1726
- long: 1693
- maxZoom: 1
- minZoom: -1.5
- defaultZoom: -1
- unit: meters
- scale: 0.5186567164179104 
+> id: Halvinar
+> image: [[halvinar.png|Halvinar]]
+> height: 850px
+> width: 95%
+> bounds: [[0,0], [3386, 3452]] 
+> lat: 1726
+> long: 1693
+> maxZoom: 1
+> minZoom: -1.5
+> defaultZoom: -1
+> unit: meters
+> 
+>scale: 0.5186567164179104
+>```
+> 
 >
 >## Notable Locations
 >

@@ -12,5 +12,8 @@
   "dataview",
   "custom-sort",
   "buttons",
-  "obsidian-regex-pipeline"
+  "obsidian-regex-pipeline",
+  "multi-column-markdown",
+  "table-checkboxes",
+  "customjs"
 ]
